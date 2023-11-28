@@ -1,6 +1,7 @@
-<h1>Hello, my name is Brunno!  <a href="https://www.linkedin.com/in/joshmadakor/">Aspiring Cybersecurity</a>
+<h1>Hello, my name is Brunno!
+<a href="https://www.linkedin.com/in/joshmadakor/">Aspiring Cybersecurity</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>🔐 Cybersecurity Projects:</h2>
 
 
 
@@ -12,7 +13,8 @@
 
 
 
-Certifications
+<h2>📖 Certifications</h2>
+
 
 <h2> 🤳 Connect with me:</h2>
 
